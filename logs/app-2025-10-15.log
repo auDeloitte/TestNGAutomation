@@ -1,0 +1,13 @@
+12:34:58.915 DEBUG LoggingDemo -Debug message logged
+12:34:58.920 ERROR LoggingDemo -Error message logged
+12:34:58.920 FATAL LoggingDemo -Fatal message logged
+12:48:00.938 TRACE LoggingDemo -Trace message logged
+12:48:00.943 DEBUG LoggingDemo -Debug message logged
+12:48:00.943 INFO  LoggingDemo -Info message logged
+12:48:00.943 ERROR LoggingDemo -Error message logged
+12:48:00.943 FATAL LoggingDemo -Fatal message logged
+12:48:52.446 TRACE LoggingDemo -Trace message logged
+12:48:52.449 DEBUG LoggingDemo -Debug message logged
+12:48:52.449 INFO  LoggingDemo -Info message logged
+12:48:52.449 ERROR LoggingDemo -Error message logged
+12:48:52.450 FATAL LoggingDemo -Fatal message logged

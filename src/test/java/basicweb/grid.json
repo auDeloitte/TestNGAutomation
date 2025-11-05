@@ -1,0 +1,25 @@
+{
+  "server": {
+    "port": 5555
+  },
+  "node": {
+    "max_sessions": 3,
+    "register": true,
+    "hub": "http://localhost:4444"
+  },
+  "session": {
+    "timeout": 300
+  },
+  "capabilities": [
+    {
+      "browserName": "chrome",
+      "maxInstances": 2,
+      "platformName": "WINDOWS"
+    },
+    {
+      "browserName": "firefox",
+      "maxInstances": 1,
+      "platformName": "WINDOWS"
+    }
+  ]
+}
