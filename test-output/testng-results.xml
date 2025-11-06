@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-05T15:30:34 EST" name="Default suite" finished-at="2025-11-05T15:30:54 EST" duration-ms="19455">
+  <suite started-at="2025-11-06T09:44:23 EST" name="Default suite" finished-at="2025-11-06T09:44:44 EST" duration-ms="20697">
     <groups>
     </groups>
-    <test started-at="2025-11-05T15:30:34 EST" name="Default test" finished-at="2025-11-05T15:30:54 EST" duration-ms="19455">
+    <test started-at="2025-11-06T09:44:23 EST" name="Default test" finished-at="2025-11-06T09:44:44 EST" duration-ms="20697">
       <class name="basicweb.JUnitIntroduction">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:basicweb.JUnitIntroduction@1f387978]" started-at="2025-11-05T15:30:34 EST" name="setUp" finished-at="2025-11-05T15:30:50 EST" duration-ms="15962" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:basicweb.JUnitIntroduction@5cdf39b2]" started-at="2025-11-06T09:44:23 EST" name="setUp" finished-at="2025-11-06T09:44:41 EST" duration-ms="17293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:basicweb.JUnitIntroduction@1f387978]" started-at="2025-11-05T15:30:50 EST" name="test" description="Select all text test" finished-at="2025-11-05T15:30:52 EST" duration-ms="2103" status="PASS">
+        <test-method signature="test()[pri:0, instance:basicweb.JUnitIntroduction@5cdf39b2]" started-at="2025-11-06T09:44:41 EST" name="test" description="Select all text test" finished-at="2025-11-06T09:44:43 EST" duration-ms="2105" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:basicweb.JUnitIntroduction@1f387978]" started-at="2025-11-05T15:30:52 EST" name="tearDown" finished-at="2025-11-05T15:30:53 EST" duration-ms="1048" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:basicweb.JUnitIntroduction@5cdf39b2]" started-at="2025-11-06T09:44:43 EST" name="tearDown" finished-at="2025-11-06T09:44:44 EST" duration-ms="1003" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=test status=SUCCESS method=JUnitIntroduction.test()[pri:0, instance:basicweb.JUnitIntroduction@1f387978] output={null}]]]>
+                <![CDATA[[TestResult name=test status=SUCCESS method=JUnitIntroduction.test()[pri:0, instance:basicweb.JUnitIntroduction@5cdf39b2] output={null}]]]>
               </value>
             </param>
           </params>

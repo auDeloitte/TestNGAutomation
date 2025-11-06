@@ -1,0 +1,1 @@
+{"uuid":"57d23e49-b0fc-406c-9a54-262f6cc322be","name":"basicweb.JUnitIntroduction","children":["be0548dd-6de4-4647-9508-a466283d7035"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1762440263872,"stop":1762440281120}],"afters":[],"start":1762440263760,"stop":1762440284449}
